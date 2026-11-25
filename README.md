@@ -66,10 +66,7 @@ Sentiment-Analysis-App
 
 This project demonstrates how Natural Language Processing can be used to extract insights from text data in a simple and effective way. It serves as a strong foundation for building advanced text analytics and AI-based applications.
 
-## 👤 Author
 
-**Abhishek**  
-Aspiring Data Analyst 
 
 
 - `app.py` → Main Streamlit application file :contentReference[oaicite:1]{index=1}  
